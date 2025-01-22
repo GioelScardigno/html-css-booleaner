@@ -33,3 +33,16 @@ h1 {
     color: skyblue;
     font-style: normal;
 }
+
+.contenitore-immagini {
+    margin-top: 1%;
+    width: 100
+}
+
+.immagine {
+    height: 300px;
+}
+
+.descrizione-immagini {
+    color: rgb(96, 96, 96);
+}
