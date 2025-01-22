@@ -13,6 +13,23 @@ header {
 
 .logo{
     width: 10%;
-    margin-left: 10%;
+    margin-left: 8.3%;
 }
 
+main {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1 {
+    margin-top: 2%;
+}
+
+.informazioni-articolo {
+    color: rgb(150, 150, 150);
+}
+
+.link {
+    color: skyblue;
+    font-style: normal;
+}
